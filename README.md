@@ -1,4 +1,4 @@
-# cross-section-shape-context (CSSC) descriptor
+# cross-section shape context (CSSC) descriptor
 This repo contains the code of CSSC descriptor for paper: "A LiDAR-based single-shot global localization solution using a cross-section shape context descriptor".
 
 CSSC is a global descriptor for LiDAR point cloud, which describes the spatial distribution characteristics of the point cloud from two dimensions. CSSC descriptors can be utilized for loop closure detection
